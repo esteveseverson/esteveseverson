@@ -5,9 +5,9 @@
 ## <b> 🚀 Minha stack principal </b>
 <p align="center" style="margin: 30px;padding: 10px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21~bgwhite.svg" alt="django" width="90" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="50" height="50"/>
     <img src="https://upload.vectorlogo.zone/logos/djangoproject/images/987d061e-1b91-4e4a-aa41-e6fc343d2cd7.svg" alt="FastAPI" width="90" height="50"/>
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" alt="flask" width="90" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask" width="90" height="50"/> 
     <img src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg" alt="pytest" width="80" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="50" height="50"/>
     <br> <br>
